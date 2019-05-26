@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CameraProjApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CameraProjApplication.class, args);
+	 	SpringApplication.run(CameraProjApplication.class, args);
 	}
 
 }
